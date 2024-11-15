@@ -30,6 +30,7 @@ This repository contains the code behind this functionality. It’s a Python-bas
 ## Configuration
 
 1. Create a `config.json` file with the following structure:
+
    ```json
    {
      "email": "your_email@gmail.com",
@@ -39,6 +40,7 @@ This repository contains the code behind this functionality. It’s a Python-bas
      "to_email": "recipient_email@gmail.com"
    }
    ```
+   
 2. Update the `bucket_name` in `main.py`.
 
 ## Usage
